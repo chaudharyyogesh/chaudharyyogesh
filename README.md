@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chaudharyyogesh a computer science and engineering graduate and a technology enthusiast.
-- 👀 I’m interested in Full Stack development and android development.
+- 👀 I’m a Full Stack developer(MERN stack) and web designer.
 - 🌱 I’m currently improving my skills on react.js and node.js.
 - 📫 Reach me through my eamil chaudharyyogesh84@gmail.com 
