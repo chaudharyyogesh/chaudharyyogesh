@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaudharyyogesh a computer science and engineering graduate and a technology enthusiast.
-- 👀 I’m a Full Stack developer(MERN stack) and web designer.
+- 👀 I’m a Full Stack Developer(MERN stack) working for Broadridge India Financial Ltd. as a Senior Member Technical since 09/21.
 - 🌱 I’m currently improving my skills on react.js and node.js.
 - 📧 Reach me through my email chaudharyyogesh84@gmail.com
 - 📎Visit my LinkedIn profile https://www.linkedin.com/in/yogeshchaudhary101/
